@@ -1,0 +1,17 @@
+#!/bin/python3
+def n_plus_1(numero):
+	print (numero+1)
+	return (numero+1)
+print (0)
+n_plus_1(0)
+print (1)
+n_plus_1(1)
+print (2)
+n_plus_1(2)
+print (3)
+n_plus_1(3)
+print (4)
+n_plus_1(4)
+print (5)
+n_plus_1(5)
+exit (0)
